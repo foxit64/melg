@@ -1,4 +1,4 @@
-baseURL = 'https://cohub-hugo.netlify.app'
+baseURL = 'https://foxit64.github.io/melg'
 languageCode = 'en-us'
 paginate = 6
 theme= "cohub"
