@@ -1,8 +1,8 @@
 baseURL = 'https://cohub-hugo.netlify.app'
 languageCode = 'en-us'
 paginate = 6
-theme= "cohub"
-title = 'MelG'
+theme= "coHub"
+title = 'coHub'
  
 [Menu]
   # Main Menu
@@ -22,6 +22,10 @@ title = 'MelG'
   name = "Blog"
   url= "#blog"
   weight = 4
+  [[menu.Main]]
+  name = "Pricing"
+  url= "#pricing"
+  weight = 5
   [[menu.Main]]
   name = "FAQ"
   url= "#faq"
@@ -81,3 +85,5 @@ title = 'MelG'
   icon = "ti-instagram"
   url = "https://www.instagram.com/"
   weight = 4
+  
+  
