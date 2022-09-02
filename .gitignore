@@ -1,0 +1,12 @@
+_branch
+env
+
+.DS_Store
+.AppleDouble
+.LSOverride
+
+*.swp
+*.swx
+*.vimtags
+
+.hugo_build.lock
