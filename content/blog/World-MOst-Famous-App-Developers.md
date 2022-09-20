@@ -18,7 +18,3 @@ tags: ["Marketing", "News"]
   - List item number 01
   - List item number 02
   - List item number 03
-  - List item number 04
-  - List item number 05
-  - List item number 06
-
